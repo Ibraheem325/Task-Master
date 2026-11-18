@@ -6,7 +6,7 @@ them. Tasks are stored in a database table and shown in a list with the date eac
 I made it in 2024 to learn the basics of Flask and of working with a database (CRUD:
 create, read, update, delete).
 
-**Live demo:** _link coming soon_
+**Live demo:** https://task-master-96jv.onrender.com
 (free hosting, so the first load after a period of inactivity can take up to about a minute)
 
 ## What it uses
